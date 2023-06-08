@@ -5,17 +5,17 @@ This repository contains an Jupyter Notebook script that builds a machine learni
 ## Dataset
 The dataset used for training the housing price prediction model contains the following features:
 
-longitude: The longitude coordinate of the house's location.
-latitude: The latitude coordinate of the house's location.
-housing_median_age: The median age of the houses in the neighborhood.
-total_rooms: The total number of rooms in the house.
-total_bedrooms: The total number of bedrooms in the house.
-population: The population of the neighborhood.
-households: The total number of households in the neighborhood.
-median_income: The median income of the household in the neighborhood.
-median_house_value: The median value of houses in the neighborhood.
-ocean_proximity: The proximity of the house to the ocean (e.g., "Near Bay," "Inland," "Oceanfront").
-These features provide valuable information about the location, size, and demographic characteristics of the houses and their neighborhoods. The model leverages these features to learn patterns and make accurate predictions on housing prices.
+longitude: The longitude coordinate of the house's location. 
+latitude: The latitude coordinate of the house's location. 
+housing_median_age: The median age of the houses in the neighborhood. 
+total_rooms: The total number of rooms in the house. 
+total_bedrooms: The total number of bedrooms in the house. 
+population: The population of the neighborhood. 
+households: The total number of households in the neighborhood. 
+median_income: The median income of the household in the neighborhood. 
+median_house_value: The median value of houses in the neighborhood. 
+ocean_proximity: The proximity of the house to the ocean (e.g., "Near Bay," "Inland," "Oceanfront"). 
+These features provide valuable information about the location, size, and demographic characteristics of the houses and their neighborhoods. The model leverages these features to learn patterns and make accurate predictions on housing prices. 
 
 ## Installation
 To run the script and build the prediction model, follow these steps:
