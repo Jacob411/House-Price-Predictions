@@ -1,6 +1,6 @@
 
 ## Housing Price Prediction Model
-This repository contains an Jupyter Notebook script that builds a machine learning model to predict housing prices. The model is trained on a dataset of housing features and corresponding prices, allowing it to learn patterns and make accurate predictions on new, unseen data.
+This repository contains an Jupyter Notebook script that builds a machine learning model to predict housing prices. The model is trained on a dataset of housing features and corresponding prices, allowing it to learn patterns and make accurate predictions on new, unseen data. [Dataset](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 
 ## Dataset
 The dataset used for training the housing price prediction model contains the following features:
