@@ -23,23 +23,22 @@ To run the script and build the prediction model, follow these steps:
 Clone the repository to your local machine using the following command:
 
 Copy code
-git clone https://github.com/Jacob411/House-Price-Predictions.git
+```bash
+$ git clone https://github.com/Jacob411/House-Price-Predictions.git
 Navigate to the project directory:
 
-cd housing-price-prediction
+$ cd housing-price-prediction
 Create a virtual environment (optional but recommended) and activate it:
 
 
 
-python -m venv venv
-source venv/bin/activate
+$ python -m venv venv
+$ source venv/bin/activate
 Install the required dependencies:
 
-pip install -r requirements.txt
-Start the Jupyter Notebook server:
+$ pip install -r requirements.txt
+```
 
-
-jupyter notebook
 Open the housing_price_prediction.ipynb notebook in your browser and execute the cells to run the code.
 
 ## Usage
