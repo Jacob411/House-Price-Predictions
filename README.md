@@ -25,17 +25,15 @@ Clone the repository to your local machine using the following command:
 Copy code
 ```bash
 $ git clone https://github.com/Jacob411/House-Price-Predictions.git
+
 Navigate to the project directory:
-
 $ cd housing-price-prediction
+
 Create a virtual environment (optional but recommended) and activate it:
-
-
-
 $ python -m venv venv
 $ source venv/bin/activate
-Install the required dependencies:
 
+Install the required dependencies:
 $ pip install -r requirements.txt
 ```
 
